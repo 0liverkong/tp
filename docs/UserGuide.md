@@ -48,7 +48,7 @@ HireHub is a **desktop app for managing candidates, optimized for use via a Comm
 
 ## Features
 
-<div markdown="block" class="alert alert-info">
+<div markdown="block" >
 
 **:information_source: Notes about the command format:**<br>
 
